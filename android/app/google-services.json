@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334935829786",
+    "project_id": "chat-desktop-c7b7d",
+    "storage_bucket": "chat-desktop-c7b7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334935829786:android:5e762bba7b9064f0a510a3",
+        "android_client_info": {
+          "package_name": "com.example.chat_desktop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sF2rF6Kvco5p7X4oowruILX8HcbJnyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
