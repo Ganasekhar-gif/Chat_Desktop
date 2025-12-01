@@ -118,3 +118,6 @@ Makefile
 # -------------------------------
 build/windows/x64/extracted/
 firebase_cpp_sdk*/
+lib/firebase_options.dart
+firebase.json
+
